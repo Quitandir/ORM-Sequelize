@@ -9,7 +9,7 @@ Regarding the topics to be studied, Sequelize was the technogy chosen to present
 # Technologies
 
 First time using:
-- body-parser
+
 - MySQL
 - Sequelize
 
@@ -20,7 +20,7 @@ Familiar technologies:
 
 # Experience
 
-Never before I had in the same project this amount of dependancies. Although I had familiarity with some of them already, during this time improved my experience with Express, making it easier to undestand and use it in future projects. 
+Never before I had in the same project this amount of dependencies. Although I had familiarity with some of them already, during this time improved my experience with Express, making it easier to undestand and use it in future projects. 
 
 On the other hand, I had some difficulties making MySQL work on the project. As it was my first time using it, I had some trouble making it work. Over the course, some instructions did not work and so  I had to search different solutions for the issues I had while creating the database. Besides that, I could learn some MySQL commands to test seeding and migrations.
 
